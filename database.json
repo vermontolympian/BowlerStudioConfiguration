@@ -1,12 +1,28 @@
 {
   "workspace": {
-    "https://gist.github.com/911ec82c31061ec1719f6606fe36debc.git": [
-      "GIST: sphere.groovy",
-      "1575389436639"
-    ],
     "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git": [
       "GIST: resizeScale.groovy",
       "1575390580007"
+    ],
+    "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git": [
+      "GIST: cube.groovy",
+      "1575389969422"
+    ],
+    "https://gist.github.com/da832e0a5dab82fc2b49c2495a5ac524.git": [
+      "GIST: moveRotate.groovy",
+      "1575390449753"
+    ],
+    "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git": [
+      "GIST: cylinder.groovy",
+      "1575389694950"
+    ],
+    "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git": [
+      "GIST: roundedcube.groovy",
+      "1575389169785"
+    ],
+    "https://gist.github.com/911ec82c31061ec1719f6606fe36debc.git": [
+      "GIST: sphere.groovy",
+      "1575389436639"
     ],
     "https://gist.github.com/581677b57f44db0b613f632b4d427121.git": [
       "GIST: BowlerStudio Hello World",
@@ -16,25 +32,13 @@
       "GIST: parts that have chamfered",
       "1575389306621"
     ],
-    "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git": [
-      "GIST: cube.groovy",
-      "1575389969422"
-    ],
     "https://gist.github.com/de1172f9c9a5a3d4d7a1a3b15914d71d.git": [
       "GIST: BowlerStudio Hello World",
       "1575389096022"
     ],
-    "https://gist.github.com/da832e0a5dab82fc2b49c2495a5ac524.git": [
-      "GIST: moveRotate.groovy",
-      "1575390449753"
-    ],
     "https://gist.github.com/f1f58fbb98aa99bb621548719eae26ff.git": [
       "GIST: union.groovy",
       "1575390578318"
-    ],
-    "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git": [
-      "GIST: cylinder.groovy",
-      "1575389694950"
     ],
     "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git": [
       "GIST: RoundedCylinder",
@@ -44,9 +48,9 @@
       "GIST: parabola",
       "1575390263797"
     ],
-    "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git": [
-      "GIST: roundedcube.groovy",
-      "1575389169785"
+    "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git": [
+      "GIST: Minkowski opperation examples",
+      "1575391064725"
     ]
   },
   "studio-open-web": {},
@@ -62,6 +66,10 @@
     "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git:cube.groovy": [
       "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git",
       "cube.groovy"
+    ],
+    "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git:minkowskiAPI.groovy": [
+      "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git",
+      "minkowskiAPI.groovy"
     ],
     "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git:resizeScale.groovy": [
       "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git",
