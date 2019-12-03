@@ -20,6 +20,10 @@
       "GIST: cylinder.groovy",
       "1575389694950"
     ],
+    "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git": [
+      "GIST: RoundedCylinder",
+      "1575389790577"
+    ],
     "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git": [
       "GIST: roundedcube.groovy",
       "1575389169785"
@@ -27,6 +31,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git:RoundedCylinderTest.groovy": [
+      "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git",
+      "RoundedCylinderTest.groovy"
+    ],
     "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git:ChamferedParts.groovy": [
       "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git",
       "ChamferedParts.groovy"
