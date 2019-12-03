@@ -64,7 +64,7 @@
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "fontsize": 28,
+    "fontsize": 28.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
