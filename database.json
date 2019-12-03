@@ -99,17 +99,9 @@
       "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git",
       "ParabolaTest.groovy"
     ],
-    "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git:cylinder.groovy": [
-      "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git",
-      "cylinder.groovy"
-    ],
     "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git:roundedcube.groovy": [
       "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git",
       "roundedcube.groovy"
-    ],
-    "https://gist.github.com/f1f58fbb98aa99bb621548719eae26ff.git:union.groovy": [
-      "https://gist.github.com/f1f58fbb98aa99bb621548719eae26ff.git",
-      "union.groovy"
     ]
   },
   "BowlerStudioConfigs": {
