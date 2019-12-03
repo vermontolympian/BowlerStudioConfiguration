@@ -66,6 +66,10 @@
     "https://github.com/vermontolympian/Baby-Yoda.git:Hand.groovy": [
       "https://github.com/vermontolympian/Baby-Yoda.git",
       "Hand.groovy"
+    ],
+    "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git:LoadSTL.groovy": [
+      "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git",
+      "LoadSTL.groovy"
     ]
   },
   "BowlerStudioConfigs": {
