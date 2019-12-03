@@ -4,6 +4,10 @@
       "GIST: BowlerStudio Hello World",
       "1575389096022"
     ],
+    "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git": [
+      "GIST: parts that have chamfered",
+      "1575389306621"
+    ],
     "https://gist.github.com/de1172f9c9a5a3d4d7a1a3b15914d71d.git": [
       "GIST: BowlerStudio Hello World",
       "1575389096022"
@@ -15,6 +19,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git:ChamferedParts.groovy": [
+      "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git",
+      "ChamferedParts.groovy"
+    ],
     "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git:cube.groovy": [
       "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git",
       "cube.groovy"
