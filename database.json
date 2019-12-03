@@ -4,6 +4,10 @@
       "GIST: resizeScale.groovy",
       "1575390580007"
     ],
+    "https://gist.github.com/ebf57dbf64d79548a435f5185323d35c.git": [
+      "GIST: javaCadHull.groovy",
+      "1575391606956"
+    ],
     "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git": [
       "GIST: cube.groovy",
       "1575389969422"
@@ -31,10 +35,6 @@
     "https://gist.github.com/c50adfed55741448a99813ee156991c4.git": [
       "GIST: Create a toManufaacturing closure on a CSG",
       "1575391465606"
-    ],
-    "https://gist.github.com/581677b57f44db0b613f632b4d427121.git": [
-      "GIST: BowlerStudio Hello World",
-      "1575389096022"
     ],
     "https://gist.github.com/41a62f7ace9fb67ad820de64f98426f7.git": [
       "GIST: parts that have chamfered",
@@ -90,6 +90,10 @@
     "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git:resizeScale.groovy": [
       "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git",
       "resizeScale.groovy"
+    ],
+    "https://gist.github.com/ebf57dbf64d79548a435f5185323d35c.git:javaCadHull.groovy": [
+      "https://gist.github.com/ebf57dbf64d79548a435f5185323d35c.git",
+      "javaCadHull.groovy"
     ],
     "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git:ParabolaTest.groovy": [
       "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git",
