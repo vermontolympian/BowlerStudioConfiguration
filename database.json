@@ -1,5 +1,21 @@
 {
+  "workspace": {
+    "https://gist.github.com/581677b57f44db0b613f632b4d427121.git": [
+      "GIST: BowlerStudio Hello World",
+      "1575389096022"
+    ],
+    "https://gist.github.com/de1172f9c9a5a3d4d7a1a3b15914d71d.git": [
+      "GIST: BowlerStudio Hello World",
+      "1575389096022"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git:cube.groovy": [
+      "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git",
+      "cube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
