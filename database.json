@@ -62,50 +62,9 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git:RoundedCylinderTest.groovy": [
-      "https://gist.github.com/55331c90f98d60874dec46315c716c9c.git",
-      "RoundedCylinderTest.groovy"
-    ],
-    "https://gist.github.com/911ec82c31061ec1719f6606fe36debc.git:sphere.groovy": [
-      "https://gist.github.com/911ec82c31061ec1719f6606fe36debc.git",
-      "sphere.groovy"
-    ],
-    "https://gist.github.com/c50adfed55741448a99813ee156991c4.git:ToManufacturing.groovy": [
-      "https://gist.github.com/c50adfed55741448a99813ee156991c4.git",
-      "ToManufacturing.groovy"
-    ],
-    "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git:cube.groovy": [
-      "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git",
-      "cube.groovy"
-    ],
-    "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git:minkowskiAPI.groovy": [
-      "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git",
-      "minkowskiAPI.groovy"
-    ],
-    "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git:LoadSTL.groovy": [
-      "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git",
-      "LoadSTL.groovy"
-    ],
-    "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git:resizeScale.groovy": [
-      "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git",
-      "resizeScale.groovy"
-    ],
-    "https://gist.github.com/ebf57dbf64d79548a435f5185323d35c.git:javaCadHull.groovy": [
-      "https://gist.github.com/ebf57dbf64d79548a435f5185323d35c.git",
-      "javaCadHull.groovy"
-    ],
-    "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git:ParabolaTest.groovy": [
-      "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git",
-      "ParabolaTest.groovy"
-    ],
-    "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git:roundedcube.groovy": [
-      "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git",
-      "roundedcube.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "fontsize": 12.0,
+    "fontsize": 28,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
