@@ -28,6 +28,10 @@
       "GIST: RoundedCylinder",
       "1575389790577"
     ],
+    "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git": [
+      "GIST: parabola",
+      "1575390263797"
+    ],
     "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git": [
       "GIST: roundedcube.groovy",
       "1575389169785"
@@ -50,6 +54,10 @@
     "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git:cube.groovy": [
       "https://gist.github.com/2465ca8865845b2f7a2750eafa616301.git",
       "cube.groovy"
+    ],
+    "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git:ParabolaTest.groovy": [
+      "https://gist.github.com/8cbe133cd2f78cadfac20c7625bc1f98.git",
+      "ParabolaTest.groovy"
     ],
     "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git:cylinder.groovy": [
       "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git",
