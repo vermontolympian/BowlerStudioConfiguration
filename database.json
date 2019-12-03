@@ -12,6 +12,10 @@
       "GIST: moveRotate.groovy",
       "1575390449753"
     ],
+    "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git": [
+      "GIST: LoadSTL.groovy",
+      "1575391264906"
+    ],
     "https://gist.github.com/f1b97f561253532f34f0179e568ab1e1.git": [
       "GIST: cylinder.groovy",
       "1575389694950"
@@ -70,6 +74,10 @@
     "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git:minkowskiAPI.groovy": [
       "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git",
       "minkowskiAPI.groovy"
+    ],
+    "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git:LoadSTL.groovy": [
+      "https://gist.github.com/cf62675b1df75cf92964e74bef4a1ff9.git",
+      "LoadSTL.groovy"
     ],
     "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git:resizeScale.groovy": [
       "https://gist.github.com/2d0203aba1b1581719197c5dd0070b66.git",
