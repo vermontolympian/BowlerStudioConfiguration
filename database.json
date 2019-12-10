@@ -28,10 +28,6 @@
       "GIST: cylinder.groovy",
       "1575389694950"
     ],
-    "https://gist.github.com/5291b13932a8e8d37e75e3b20f1282ed.git": [
-      "GIST: roundedcube.groovy",
-      "1575389169785"
-    ],
     "https://gist.github.com/911ec82c31061ec1719f6606fe36debc.git": [
       "GIST: sphere.groovy",
       "1575389436639"
@@ -59,6 +55,10 @@
     "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git": [
       "GIST: Minkowski opperation examples",
       "1575391064725"
+    ],
+    "https://gist.github.com/0498700d7a1ce50ed6be56451cb86688.git": [
+      "GIST: Left Hand.groovy",
+      "1575945245418"
     ]
   },
   "studio-open-web": {},
