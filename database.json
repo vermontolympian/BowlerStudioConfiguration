@@ -63,12 +63,8 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/vermontolympian/Baby-Yoda.git:Hand.groovy": [
+    "https://github.com/vermontolympian/Baby-Yoda.git:Left Hand.groovy": [
       "https://github.com/vermontolympian/Baby-Yoda.git",
-      "Hand.groovy"
-    ],
-    "https://gist.github.com/0498700d7a1ce50ed6be56451cb86688.git:Left Hand.groovy": [
-      "https://gist.github.com/0498700d7a1ce50ed6be56451cb86688.git",
       "Left Hand.groovy"
     ]
   },
