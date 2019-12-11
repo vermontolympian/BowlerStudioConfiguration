@@ -71,9 +71,9 @@
       "https://github.com/vermontolympian/Baby-Yoda.git",
       "Left Hand.groovy"
     ],
-    "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git:minkowskiAPI.groovy": [
-      "https://gist.github.com/29eada7795cf1cc0e065a42321723f01.git",
-      "minkowskiAPI.groovy"
+    "https://github.com/vermontolympian/Baby-Yoda.git:Left Insert.groovy": [
+      "https://github.com/vermontolympian/Baby-Yoda.git",
+      "Left Insert.groovy"
     ]
   },
   "BowlerStudioConfigs": {
