@@ -66,10 +66,6 @@
     "https://github.com/vermontolympian/Baby-Yoda.git:Head.groovy": [
       "https://github.com/vermontolympian/Baby-Yoda.git",
       "Head.groovy"
-    ],
-    "https://github.com/vermontolympian/Baby-Yoda.git:Left Hand.groovy": [
-      "https://github.com/vermontolympian/Baby-Yoda.git",
-      "Left Hand.groovy"
     ]
   },
   "BowlerStudioConfigs": {
