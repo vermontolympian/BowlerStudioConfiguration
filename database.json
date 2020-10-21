@@ -66,6 +66,14 @@
     "https://github.com/vermontolympian/Baby-Yoda.git:Head.groovy": [
       "https://github.com/vermontolympian/Baby-Yoda.git",
       "Head.groovy"
+    ],
+    "https://github.com/vermontolympian/Baby-Yoda.git:Left Hand.groovy": [
+      "https://github.com/vermontolympian/Baby-Yoda.git",
+      "Left Hand.groovy"
+    ],
+    "https://github.com/vermontolympian/Baby-Yoda.git:Left Ear.groovy": [
+      "https://github.com/vermontolympian/Baby-Yoda.git",
+      "Left Ear.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -73,7 +81,7 @@
     "firstVersion": "1.4.5",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 20.0,
+    "fontsize": 14,
     "skinBranch": "1.12.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
